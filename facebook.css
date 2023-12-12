@@ -128,7 +128,7 @@ hr{
     
 }
 ::placeholder{
-    color: grey;
+    color: rgb(152, 150, 150);
 }
 .creatpage{
     width: 400px;
