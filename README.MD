@@ -1,2 +1,2 @@
-# Facebook Login Page by "zarwali" <br>
+# Facebook Login Page <br>
 # Made-by "Syed-Zarwali"
